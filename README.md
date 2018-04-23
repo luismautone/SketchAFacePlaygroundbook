@@ -1,10 +1,10 @@
 # *SketchAFace* Playgroundbook
 
-### Accepted
+*Accepted*
 
 I made this playground to attend WWDC18: I tried to explain in a simple and interactive way the basics for the sketching of a face.
 Once you have chosen the parameters to give to your face and you have tapped on `Run My Code`,
-the playground will help you make your drawing through *guidelines*
+the playground will help you make your drawing through *guidelines*.
 
 ## Technologies involved:
 
