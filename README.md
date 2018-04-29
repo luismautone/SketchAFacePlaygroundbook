@@ -1,7 +1,5 @@
 # *SketchAFace* Playgroundbook
 
-*Accepted*
-
 I made this playground to attend WWDC18: I tried to explain in a simple and interactive way the basics for the sketching of a face.
 Once you have chosen the parameters to give to your face and you have tapped on `Run My Code`,
 the playground will help you make your drawing through *guidelines*.
@@ -14,6 +12,6 @@ the playground will help you make your drawing through *guidelines*.
 * **CoreGraphics**, I used the current *CGContext* for the implementation of a drawing area for the user.
 
 
-Here it is a GIF of my Playgroundbook
+Here it is a video of my Playgroundbook
 
-![Playgroundbook GIF](Sketch-A-Face.gif)
+[![WWDC18 Submission](https://img.youtube.com/vi/X_SGP63TJTQ/0.jpg)](https://www.youtube.com/watch?v=X_SGP63TJTQ)
